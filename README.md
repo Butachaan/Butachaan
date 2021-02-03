@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Butachaan/Butachaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.
 
-Here are some ideas to get you started:
-https://cdn.discordapp.com/avatars/478126443168006164/303ac313afee7583cc8ef8bd2e1ad1bd.png?size=1024
+<img src="https://cdn.discordapp.com/avatars/478126443168006164/303ac313afee7583cc8ef8bd2e1ad1bd.png?size=1024">
+</img>
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
